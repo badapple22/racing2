@@ -1,4 +1,5 @@
-package Racing2;
+
+package Racing2.Cars;
 
 import java.awt.Image;
 

@@ -1,4 +1,4 @@
-package Racing2;
+package Racing2.Cars;
 //플레이어 자동차
 
 import javax.swing.ImageIcon;
